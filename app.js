@@ -1,5 +1,5 @@
 let earth = "HELLO WORLD!";
-console.log (earth);
+console.log(earth);
 
 let name = "Denver Valentino";
-console.log ('My Name is ' = name);
+console.log ('My Name is ' + name);
